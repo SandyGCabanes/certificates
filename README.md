@@ -7,4 +7,4 @@ certifications related to Data Analysis, Python, SQL
 
 [python data analysis freecodecamp](https://github.com/SandyGCabanes/certificates/blob/master/FreeCodeCamp%20certificate%20Data%20Analysis%20with%20Python.pdf)
 
-[aws course completion pdf file](https://github.com/SandyGCabanes/certificates/blob/master/AWS%20Course%20Completion%20Certificate%2011458_3_4551569_1701146867.pdf)
+[aws cloud quest completion pdf file](https://github.com/SandyGCabanes/certificates/blob/master/AWS%20Course%20Completion%20Certificate%2011458_3_4551569_1701146867.pdf)
